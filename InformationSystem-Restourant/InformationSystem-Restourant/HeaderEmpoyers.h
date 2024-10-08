@@ -1,2 +1,0 @@
-void waiterRole();
-void povarRole();
